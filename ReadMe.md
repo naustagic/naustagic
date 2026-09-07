@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/github/followers/naustagic?label=Followers&style=for-the-badge&color=0e1726&labelColor=0369a1&logo=github&logoColor=white" alt="Followers" />
-<a href="https://discord.gg/Kf5JgCN5mh"><img src="https://img.shields.io/badge/Discord-SaraLapia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0e1726" alt="Discord" /></a>
+<a href="https://discord.com/users/327644167276855298"><img src="https://img.shields.io/badge/Discord-SaraLapia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0e1726" alt="Discord" /></a>
 <img src="https://img.shields.io/badge/Status-Building%20%26%20Optimizing-10b981?style=for-the-badge&labelColor=0e1726&logo=vercel&logoColor=white" alt="Status" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:090d16,50:0369a1,100:38bdf8&height=3&section=header" width="70%" alt="divider" />
