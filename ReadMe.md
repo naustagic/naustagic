@@ -1,27 +1,171 @@
-# 💫 About Me:
-👋 Olá e bem-vindos ao meu perfil do GitHub!<br>🔭 Atualmente, estou mergulhado no mundo do desenvolvimento, explorando as nuances do PHP, Python, JavaScript, Node.js e TypeScript. Minha paixão por codificar me leva a criar soluções inovadoras e enfrentar desafios de programação de maneiras criativas.<br>👯 Estou sempre em busca de colaborações emocionantes com outros desenvolvedores apaixonados. Juntos, podemos criar algo incrível e aprender uns com os outros para melhorar nossas habilidades.<br>🤝 Se você também está procurando ajuda para algum projeto ou se precisar de assistência com alguma tarefa, não hesite em me contatar. Estou aqui para compartilhar conhecimento e enfrentar desafios complexos em equipe.<br>🌱 Atualmente, estou aprofundando meus conhecimentos em uma variedade de áreas. Aprender é uma jornada contínua, e estou explorando novas tecnologias e abordagens para manter meu conjunto de habilidades afiado.<br>💬 Pergunte-me sobre qualquer coisa relacionada a PHP, Python, JavaScript, Node.js, TypeScript ou desenvolvimento web em geral. Estou aqui para trocar ideias e conhecimentos.<br>⚡ Curiosidade: Além de ser um(a) entusiasta da programação, tenho um amor incondicional por cafés especiais. Sempre estou em busca da xícara perfeita para me inspirar enquanto codifico!<br><br>Fique à vontade para explorar meus repositórios e projetos. Vamos conectar e colaborar para impulsionar o mundo do desenvolvimento! 🚀👩‍💻👨‍💻
+<div align="center">
 
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,40:0e1726,75:0369a1,100:38bdf8&height=200&section=header&text=SaraLapia%20•%20Software%20Engineer&fontSize=30&fontColor=ffffff&fontAlignY=36&desc=Backend%20Architecture%20•%20Distributed%20Systems%20•%20Real-Time%20Data&descSize=14&descAlignY=58" width="100%" alt="Header Banner" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=flat-square&logo=erlang&logoColor=a90533) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naustagic&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naustagic&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naustagic&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Animated Typing SVG -->
+  <p align="center">
+    <a href="https://github.com/naustagic">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=560&lines=High-Performance+Backends+(Go+%E2%80%A2+Python+%E2%80%A2+PHP);Modern+Web+Apps+(Next.js+%E2%80%A2+React+%E2%80%A2+Tailwind);Resilient+Data+Pipelines+%26+Distributed+Scraping;Discord+Bot+Ecosystems+%26+Microservices" alt="Typing SVG" />
+    </a>
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naustagic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <!-- Social & Activity Badges -->
+  <p align="center">
+    <a href="https://github.com/naustagic">
+      <img src="https://img.shields.io/github/followers/naustagic?label=Followers&style=for-the-badge&color=0e1726&labelColor=0369a1&logo=github&logoColor=white" alt="Followers" />
+    </a>
+    <a href="https://discord.gg/Kf5JgCN5mh">
+      <img src="https://img.shields.io/badge/Discord-SaraLapia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0e1726" alt="Discord" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Optimizing-10b981?style=for-the-badge&labelColor=0e1726&logo=git&logoColor=white" alt="Status" />
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naustagic&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=naustagic&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Sobre / About
+
+<details open>
+<summary><b>🇧🇷 Português</b></summary>
+<br>
+
+Engenheiro de software focado em **sistemas distribuídos**, **arquitetura backend de alta vazão**, **pipelines de dados em tempo real** e aplicações web modernas.
+
+* ⚡ **Back-end & Microsserviços:** Construção de microsserviços e APIs concorrentes com **Go (Golang)**, **Python (FastAPI)**, **PHP moderno** e **Node.js / TypeScript**.
+* 🌐 **Front-end & Aplicações Web:** Interfaces responsivas, reativas e com performance extrema utilizando **Next.js**, **React**, **Tailwind CSS** e **Alpine.js**.
+* 🕷️ **Pipelines & Web Scraping:** Automação de extração massiva, tolerância a falhas, processamento atômico em lotes e detecção heurística de padrões complexos.
+* 💾 **Dados, Cache & Mensageria:** Otimização de bancos relacionais e NoSQL (**MySQL**, **PostgreSQL**, **Redis**, **MongoDB**), indexação pesada e caching in-memory.
+* 🛡️ **DevOps & Cloud:** Infraestrutura em **Linux VPS**, balanceamento com **Nginx**, CDN, proteção de borda com **Cloudflare**, conteinerização com **Docker** e esteiras CI/CD.
+
+</details>
+
+<details open>
+<summary><b>🇺🇸 English</b></summary>
+<br>
+
+Software Engineer specialized in **distributed architectures**, **high-concurrency backends**, **real-time data pipelines**, and modern reactive web applications.
+
+* ⚡ **Back-end & Microservices:** Designing resilient, low-latency microservices using **Go (Golang)**, **Python (FastAPI)**, **Modern PHP**, and **Node.js / TypeScript**.
+* 🌐 **Front-end & Web Apps:** Developing slick, high-performance dashboards and user interfaces with **Next.js**, **React**, **Tailwind CSS**, and **Alpine.js**.
+* 🕷️ **Data Pipelines & Web Scraping:** High-throughput scraping engines, automated fault-tolerant workers, atomic bulk processing, and heuristic data matching.
+* 💾 **Storage & Caching:** Deep optimization across relational and NoSQL databases (**MySQL**, **PostgreSQL**, **Redis**, **MongoDB**), sub-millisecond memory caching, and query tuning.
+* 🛡️ **DevOps & Infrastructure:** Self-managed **Linux VPS** environments, reverse proxies via **Nginx**, edge protection & routing via **Cloudflare**, and **Docker** containerization.
+
+</details>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+  <!-- Interactive Vector Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,php,typescript,javascript,nodejs,fastapi,nextjs,react,tailwind,alpinejs,mysql,postgres,redis,mongodb,docker,linux,nginx,cloudflare,aws,git&perline=10&theme=dark" alt="Skill Icons" />
+  </a>
+
+</div>
+
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th width="28%">Categoria / Category</th>
+      <th>Tecnologias & Ferramentas / Technologies & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>⚡ Backend & Systems</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🌐 Frontend & Web</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>💾 Databases & In-Memory</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>🛡️ Cloud, DevOps & Infra</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=naustagic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naustagic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naustagic&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+### 🚀 Destaques de Arquitetura / Featured Architectures
+
+* 🎮 **Real-Time MMORPG Game Data Pipeline**
+  * *PT:* Pipeline diário com concorrência atômica, scraping de 10.000+ registros, detecção inteligente de troca de nicks com algoritmo de similaridade contextual e APIs seguras com token de 256 bits.
+  * *EN:* Daily automated atomic ingestion pipeline scraping 10,000+ players, heuristic nickname change detection, historical CP progression, and secured 256-bit tokenized APIs.
+
+* 🤖 **Multi-Guild Discord Infrastructure**
+  * *PT:* Bot modular com Discord.js v14, persistência dinâmica multi-guild, registro/sincronização de comandos slash em runtime e consulta de perfil de players com cards holográficos.
+  * *EN:* Modular Discord.js v14 architecture featuring multi-guild persistence, runtime slash command synchronization, and real-time player data lookup with rich cards.
+
+* ⚡ **High-Throughput Reactive Web Portals**
+  * *PT:* Dashboards modernos integrando Next.js/PHP, Alpine.js, Tailwind, cache in-memory via Redis e cabeçalho glass responsivo fixo com sincronização de horário oficial de Brasília.
+  * *EN:* Modern web portals integrating Next.js/PHP, Alpine.js, Tailwind, Redis memory caching, and a responsive fixed glass status header synchronized with official Brasília time.
+
+---
+
+<div align="center">
+  <a href="https://github.com/naustagic">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,40:0e1726,75:0369a1,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Banner" />
+  </a>
+</div>
