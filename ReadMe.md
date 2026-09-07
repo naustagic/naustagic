@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,40:0e1726,75:0369a1,100:38bdf8&height=210&section=header&text=SaraLapia&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%E2%80%94%20Distributed%20Systems%20%26%20Real-Time%20Data&descSize=15&descAlignY=52&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,40:0e1726,75:0369a1,100:38bdf8&height=210&section=header&text=SaraLapia&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%E2%80%94%20Distributed%20Systems%20%E2%80%A2%20Real-Time%20Data&descSize=15&descAlignY=52&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/naustagic">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7DD3FC&center=true&vcenter=true&width=620&lines=High-Performance+Backends+%E2%80%A2+Go+%2F+Python+%2F+PHP;Modern+Reactive+Web+Apps+%E2%80%A2+Next.js+%2F+React;Resilient+Data+Pipelines+%26+Distributed+Scraping;Discord+Bot+Ecosystems+%26+Microservices" alt="Typing SVG" />
